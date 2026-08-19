@@ -1,6 +1,6 @@
 ### 📦 Amazon Sales Performance Dashboard
 
-![Amazon Sales Dashboard]
+![Amazon Sales Dashboard](IMG-20260809-WA0002.jpg)
 
 ### Overview
 Built an interactive Power BI dashboard analyzing Amazon sales performance across categories, regions, and payment methods using Excel & DAX.
