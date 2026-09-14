@@ -19,5 +19,10 @@ Built an interactive Power BI dashboard analyzing Amazon sales performance acros
 - Q2 outperformed Q1 in profit (₹1.31M vs ₹1.26M)
 
 ### Tools Used
-Excel (data cleaning, pivot tables) • Power BI (DAX measures, interactive visuals) amazon-sales-performance-dashboard
-📦 Amazon Sales Performance Dashboard — Analyzed cancellations &amp; returns revenue impact using Excel (data cleaning, pivot tables) &amp; Power BI (DAX, interactive dashboard)
+Excel (data cleaning, pivot tables) • Power BI (DAX measures, interactive visuals)
+
+### Project Report
+[📄 Full Project Report (PDF)](https://drive.google.com/file/d/11o2JcdgL4owf_rif4zIPyp5XumdXT5tF/view?usp=drivesdk)
+
+📦 Amazon Sales Performance Dashboard — Analyzed cancellations & returns revenue impact using Excel (data cleaning, pivot tables) & Power BI (DAX, interactive dashboard)
+
